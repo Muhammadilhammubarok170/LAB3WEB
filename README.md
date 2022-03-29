@@ -1,13 +1,13 @@
 # LAB3WEB
-BELAJAR MEMBUAT LIST
+#BELAJAR MEMBUAT LIST
 
-Ordered List
+#Ordered List
 Langkah pertama membuat dokumen HTML, kemudian untuk kode tag yang digunakan untuk membuat Ordered List adalah <ol> berikut contoh kodingan nya.  
 
 Tampilan website nya seperti ini
   
   
-Unorderd List
+#Unorderd List
 Kemudian tambakan kode untuk membuat Unordered List dengan kode tag <ul>, setelah deklarasi ordered list pada Section unordered-list, seperti berikut.
   
 
@@ -15,7 +15,7 @@ Tampilan website nya seperti ini
   
   
 
-Description List
+#Description List
 Kode tag yang digunakan untuk deskripsi list adalah <dl>, seperti berikut.
   
 Tampilan website nya seperti ini
