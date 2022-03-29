@@ -28,26 +28,32 @@ Tampilan website nya seperti ini
 
 #Description List
 Kode tag yang digunakan untuk deskripsi list adalah <dl>, seperti berikut.
+
+  
+![screen 5](screen5.png) 
   
 Tampilan website nya seperti ini
+  
+  
+![screen 6](screen6.png) 
   
 
   
   
 Belajar Membuat Tabel
-Membuat file baru kemudian membuat table dengan kode-kode sebagai berikut:
-
 
   
 Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan cellspacing pada tag table. Untuk contohnya sebagai berikut
 
 
-  
-  
-  
+![screen 7](screen7.png)
+    
   
   
 Tampilan website nya seperti ini
+  
+  
+![screen 8](screen8.png)
 
 
 
