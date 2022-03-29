@@ -11,7 +11,7 @@ Tampilan website nya seperti ini
   
 #Unorderd List
 Kemudian tambakan kode untuk membuat Unordered List dengan kode tag <ul>
-setelah deklarasi ordered list pada Section unordered-list, seperti berikut.
+setelah deklarasi ordered list pada Section unordered-list,seperti berikut.
   
 
 Tampilan website nya seperti ini
