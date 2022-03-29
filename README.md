@@ -5,6 +5,9 @@
 
 Langkah pertama membuat dokumen HTML, kemudian untuk kode tag yang digunakan untuk membuat Ordered List adalah <ol>
 berikut contoh kodingan nya.  
+  
+  
+![screen 1](screen1.png)
 
 Tampilan website nya seperti ini
   
