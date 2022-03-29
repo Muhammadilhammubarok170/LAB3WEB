@@ -20,6 +20,8 @@ Kemudian tambakan kode untuk membuat Unordered List dengan kode tag <ul>
 setelah deklarasi ordered list pada Section unordered-list,seperti berikut.
   
 
+![screen 3](screen3.png) 
+  
 Tampilan website nya seperti ini
   
   
