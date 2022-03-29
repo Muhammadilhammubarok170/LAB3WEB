@@ -12,6 +12,9 @@ berikut contoh kodingan nya.
 Tampilan website nya seperti ini
   
   
+![screen 2](screen2.png)
+  
+  
 #Unorderd List
 Kemudian tambakan kode untuk membuat Unordered List dengan kode tag <ul>
 setelah deklarasi ordered list pada Section unordered-list,seperti berikut.
